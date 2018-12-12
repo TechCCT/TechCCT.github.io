@@ -7,7 +7,7 @@ date: "March 14 | 2019"
 weight: 10
 
 ---
-
+(Upcoming)
 This will be an introductory session to GitHub. Students will be encouraged to learn GitHub and opensource.
 
 <!--break-->
