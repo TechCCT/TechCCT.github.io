@@ -1,5 +1,6 @@
 ---
 layout: EventDisplay
+
 image: /images/Jalsa-2k17.JPG
 title: Jalsa-2k17
 year: 2017
