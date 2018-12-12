@@ -181,7 +181,7 @@ div.tab button.active {
 			{% if thecycle == '3' or forloop.last %}
     			</div>
 			{% endif %}
-			{% endif %}
+			{% endif %}- ... -->
             {% endfor %}
 		<div style="text-align: center;">
 		<!-- <a href="#" class="button big special">View All Projects</a> -->
@@ -234,7 +234,7 @@ div.tab button.active {
 <!--</div>-->
 
 
-
+<!--
 <script>
 function openType(evt, cityName) {
     var i, tabcontent, tablinks;
@@ -248,8 +248,7 @@ function openType(evt, cityName) {
     }
     document.getElementById(cityName).style.display = "block";
     evt.currentTarget.className += " active";
-}
-
+}-->
+<!--
 document.getElementById("defaultOpen").click();
-
-</script>			
+</script> -->			
