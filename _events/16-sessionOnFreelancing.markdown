@@ -1,12 +1,11 @@
 ---
 layout: EventDisplay
-image: /images/freelancing-cover.jpg
-title: Session On Freelancing
+image: /images/saanskrilla.jpg
+title: SaansKrilla'16
 year: 2016
-date: "September 17 | 2016"
+date: "May 4 | 2016"
 weight: 10
 
 ---
-The session covere things including how to get started with freelancing, how to develop skills for freelancing, getting and managing clients,etc.
-
+website - https://saanskrila.wordpress.com/?fbclid=IwAR2wWdo0iHI8jZI6qCxbu3kSWSC5m2HGCUkjuLexG2zyNBM66BDAwohfnRs Here we are, CCTIANS, coming together to bring a blend of events providing potent platform to student for exhibiting their talents. So, if you've got the zeal to stage your skills, come forth and show the world what you've got!.
 
