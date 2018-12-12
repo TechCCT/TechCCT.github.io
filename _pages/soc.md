@@ -55,8 +55,8 @@ div.tab button.active {
 <section id="banner" style="background-image:url({{ page.banner | prepend: site.baseurl }})">
     <div class="inner">
         <h2>Seasons Of Code 2018</h2>
-        <p> An Initiative By <a href="https://www.wncc-iitb.org/">The Web and Coding Club, IIT Bombay</a><br/><br/>
-        Tentative Dates: <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=N3ZxOHNlNDFtcnY2bzFhNXJpZjVmbDk2MDMgYWJlZW45QG0&tmsrc=abeen9%40gmail.com">16th May - 16th July</a></p>
+        <p> An Initiative By <a href="https://www.wncc-iitb.org/">TechCCT coding club, CCT</a><br/><br/>
+<!--    Tentative Dates: <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=N3ZxOHNlNDFtcnY2bzFhNXJpZjVmbDk2MDMgYWJlZW45QG0&tmsrc=abeen9%40gmail.com">16th May - 16th July</a></p> -->  
         <ul class="actions">
             <li><a href="#one" class="button big special">Join The Force</a></li>
         </ul>
@@ -77,7 +77,7 @@ div.tab button.active {
 				<section>
 					<h2>What is Seasons of Code?</h2>
 					<a href="#" class="image fit"><img src="{{ '/images/coding.jpg' | prepend: site.baseurl }}" alt="" /></a>
-					<p>Seasons of Code is a programme launched by the WnCC, along the lines of GSoC without much greenery though. The incentive is similar to ITSP, based on the current form of it, the fundamental difference is that one can choose from the ideas offered by mentors who are senior undergrads, doctorate students or professors, and in some exceptional cases, startups. We plan to have a really long timeframe though, until the next winter extending this programme into a mentorship of sorts into the semester. It is not just about development by the way. We have some mentors ready to take up programmes regarding competitive coding and scientific computation too.
+					<p>Seasons of Code is a programme launched by the TechCCT based on the current form of it, the fundamental difference is that one can choose from the ideas offered by mentors who are senior undergrads, doctorate students or professors, and in some exceptional cases, startups. We plan to have a really long timeframe though, until the next winter extending this programme into a mentorship of sorts into the semester. It is not just about development by the way. We have some mentors ready to take up programmes regarding competitive coding and scientific computation too.
 					</p>
 				</section>
 			</div>
@@ -103,7 +103,7 @@ div.tab button.active {
 		</div>
 	</div>
 </section>
-
+<!--
 <section id="one" class="wrapper style2">
 	<header class="major">
 		<h2>Join The Force</h2>
@@ -130,23 +130,23 @@ div.tab button.active {
 		</div>
 	</div>
 </section>
+-->
 
-<!-- Two -->
 <section id="two" class="wrapper style1">
 	<header class="major">
 		<h2>List of Projects</h2>
 		<p>Your eyes can deceive you. Don’t trust them.</p>
 	</header>
-
+<!--
 <div class="tab" style="text-align : center">
   <button class="tablinks" onclick="openType(event, 'running')" id="defaultOpen">Running Projects</button>
   <button class="tablinks" onclick="openType(event, 'completed')">Completed Projects</button>
 </div>
-<br/>
-
+<br/> -->
+<!--
 <div id="completed" class="tabcontent">
 <div class="container">
-<!-- the following line is optional to sort by weight -->
+
 		{% assign projects = site.soc_projects | sort:"weight"  %}
             {% for project in site.soc_projects%}
             {% if project.ribbon == "completed" %}
@@ -186,9 +186,9 @@ div.tab button.active {
 		<div style="text-align: center;">
 		<!-- <a href="#" class="button big special">View All Projects</a> -->
 		</div>
-	</div>
-</div>
-
+	</div> -->
+<!-- </div> -->
+<!--
 <div id="running" class="tabcontent">
 <div class="container">
 		{% assign projects = site.soc_projects | sort:"weight"  %}
@@ -196,7 +196,7 @@ div.tab button.active {
             {% if project.ribbon != "completed" %}
             {% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
             {% capture thecycle %}{% cycle '0', '1' ,'2' %}{% endcapture %}
-            <!-- Creating a new row after every three elements -->
+            
             {% if thecycle == '0' or forloop.first %}
             	<div class="row">
             {% endif %}
@@ -230,8 +230,8 @@ div.tab button.active {
 		<div style="text-align: center;">
 		<!-- <a href="#" class="button big special">View All Projects</a> -->
 		</div>
-	</div>
-</div>
+	</div> -->
+<!--</div>-->
 
 
 
