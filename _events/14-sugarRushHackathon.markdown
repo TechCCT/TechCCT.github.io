@@ -1,12 +1,13 @@
 ---
 layout: EventDisplay
-image: /images/sugar-rush-hackathon-cover.jpg
-title: Sugar Rush Hackathon 2016
-year: 2016
-date: "March 12 | 2016"
+image: /images/saanskrilla.jpg
+title: SaansKrilla
+year: 2015, 2017
+date: "December 2015, 2017"
 weight: 10
 
 ---
-Web and Coding Club, IIT Bombay in association with Kandy.io conducted “Sugar Rush”, a two-day hackathon. People were invited to showcase their ideas and win prizes worth ₹70k. Kandy.io for developers offers frameworks to easily add voice, video, rich messaging, presence or collaboration to apps. Participants were required to use Kandy’s exciting SDKs available for iOS, Android, Javascript along with a REST API to be eligible for the prizes.
+website - https://saanskrila.wordpress.com/?fbclid=IwAR2wWdo0iHI8jZI6qCxbu3kSWSC5m2HGCUkjuLexG2zyNBM66BDAwohfnRs
+Here we are, CCTIANS, coming together to bring a blend of events providing potent platform to student for exhibiting their talents. So, if you've got the zeal to stage your skills, come forth and show the world what you've got!
 
 
