@@ -181,7 +181,7 @@ div.tab button.active {
 			{% if thecycle == '3' or forloop.last %}
     			</div>
 			{% endif %}
-			{% endif %}
+			{% endif %}- ... -->
             {% endfor %}
 		<div style="text-align: center;">
 		<!-- <a href="#" class="button big special">View All Projects</a> -->
