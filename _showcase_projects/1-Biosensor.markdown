@@ -1,7 +1,7 @@
 ---
 layout: default
-image: /images/HoldTheBeat.png
-title: Biosensor
+image: /images/phylogeny.png
+title: Biosensor Python
 author: "Bharat Purohit"
 avatar: https://avatars0.githubusercontent.com/u/40547237?s=400&u=ec29fe0435a9037b2afa35f3d8f926108fb5802c&v=4
 github: https://github.com/bharatpurohit97
