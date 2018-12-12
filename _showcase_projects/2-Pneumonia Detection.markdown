@@ -2,12 +2,8 @@
 layout: default
 image: /images/pneumonia.png
 title: Pneumonia Detection
-author: 
-- "Gulshan Gaur"
-- " Bharat Purohit"
-avatar: 
-- https://avatars0.githubusercontent.com/u/13916513?v=3&s=400
-- https://avatars0.githubusercontent.com/u/13916513?v=3&s=400
+author: "Team- SudoHack"
+avatar: https://drive.google.com/file/d/1N1psfNp7S4lDKuYIBC6wEYGz-NoJgqqH/view?usp=sharing 
 github: https://github.com/nihal111
 repo: https://github.com/nihal111/J.A.R.V.I.S
 website: https://github.com/nihal111/J.A.R.V.I.S
@@ -16,5 +12,8 @@ category:
 - Python
 weight: 2
 ---
+Hackathons 
+1. LNMHacks 3.0 - Finalist,
+2. MLH Local Hack Day - Winners
 
-A simple personal assistant driven by text and voice with limitless possibilities of adding more features. Uses AIML (Artificial Intelligence Markup Language) for pattern matching and chatbot abilities along with a few python and shell scripts to carry out system processes. The repository resides [here]({{ page.repo }}).
+Team Members - Gulshan Sharma, Bharat Singh, Ravi Choudhary, Banwari lal
