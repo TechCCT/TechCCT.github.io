@@ -2,9 +2,7 @@
 layout: default
 image: /images/pneumonia.png
 title: Pneumonia Detection
-author: 
-- "Gulshan Gaur"
-- " Bharat Purohit"
+author: "Gulshan Sharma, Bharat Purohit, Ravi Choudhary, Banwari lal
 avatar: 
 - https://avatars0.githubusercontent.com/u/13916513?v=3&s=400
 - https://avatars0.githubusercontent.com/u/13916513?v=3&s=400
