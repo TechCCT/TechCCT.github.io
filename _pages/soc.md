@@ -234,7 +234,7 @@ div.tab button.active {
 <!--</div>-->
 
 
-
+<!--
 <script>
 function openType(evt, cityName) {
     var i, tabcontent, tablinks;
@@ -248,8 +248,7 @@ function openType(evt, cityName) {
     }
     document.getElementById(cityName).style.display = "block";
     evt.currentTarget.className += " active";
-}
-
+}-->
+<!--
 document.getElementById("defaultOpen").click();
-
-</script>			
+</script> -->			
