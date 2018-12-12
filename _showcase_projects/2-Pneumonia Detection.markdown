@@ -18,4 +18,4 @@ LNMHacks 3.0 - Finalist,
 
 MLH Local Hack Day - Winners
 
-Team Members - Gulshan Sharma, Bharat Singh, Ravi Choudhary, Banwari lal
+Team Members - Gulshan Sharma, Bharat Purohit, Ravi Choudhary, Banwari lal
