@@ -12,5 +12,6 @@ category:
 - Python
 weight: 2
 ---
-- LNMHacks 3.0 - Finalist 
-- MLH Local Hack Day - Winners
+Hackathons 
+1. LNMHacks 3.0 - Finalist,
+2. MLH Local Hack Day - Winners
