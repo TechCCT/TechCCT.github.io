@@ -13,7 +13,9 @@ category:
 weight: 2
 ---
 Hackathons 
-1. LNMHacks 3.0 - Finalist,
-2. MLH Local Hack Day - Winners
+
+LNMHacks 3.0 - Finalist,
+
+MLH Local Hack Day - Winners
 
 Team Members - Gulshan Sharma, Bharat Singh, Ravi Choudhary, Banwari lal
