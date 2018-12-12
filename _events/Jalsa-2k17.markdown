@@ -1,6 +1,6 @@
 ---
 layout: EventDisplay
-image: /images/Jalsa-2k17.jpg
+image: /images/Jalsa-2k17.JPG
 title: Jalsa-2k17
 year: 2017
 date: "September 29 | 2017"
