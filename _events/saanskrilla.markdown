@@ -2,8 +2,8 @@
 layout: EventDisplay
 image: /images/saanskrilla.jpg
 title: SaansKrilla
-year: 2016
-date: "December 2015 | 2017"
+year: 2017
+date: "December 6 | 2017"
 weight: 10
 
 ---
