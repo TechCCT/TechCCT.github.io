@@ -103,7 +103,7 @@ div.tab button.active {
 		</div>
 	</div>
 </section>
-<!--
+
 <section id="one" class="wrapper style2">
 	<header class="major">
 		<h2>Join The Force</h2>
@@ -130,24 +130,23 @@ div.tab button.active {
 		</div>
 	</div>
 </section>
--->
+
 
 <section id="two" class="wrapper style1">
 	<header class="major">
 		<h2>List of Projects</h2>
 		<p>Your eyes can deceive you. Don’t trust them.</p>
 	</header>
-<!--
+
 <div class="tab" style="text-align : center">
   <button class="tablinks" onclick="openType(event, 'running')" id="defaultOpen">Running Projects</button>
   <button class="tablinks" onclick="openType(event, 'completed')">Completed Projects</button>
 </div>
-<br/> -->
-<!--
+<br/> 
+
 <div id="completed" class="tabcontent">
 <div class="container">
-
-		{% assign projects = site.soc_projects | sort:"weight"  %}
+	    {% assign projects = site.soc_projects | sort:"weight"  %}
             {% for project in site.soc_projects%}
             {% if project.ribbon == "completed" %}
             {% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
@@ -186,17 +185,16 @@ div.tab button.active {
 		<div style="text-align: center;">
 		<!-- <a href="#" class="button big special">View All Projects</a> -->
 		</div>
-	</div> -->
-<!-- </div> -->
-<!--
+	</div> 
+ </div> 
+
 <div id="running" class="tabcontent">
 <div class="container">
 		{% assign projects = site.soc_projects | sort:"weight"  %}
             {% for project in site.soc_projects%}
             {% if project.ribbon != "completed" %}
             {% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
-            {% capture thecycle %}{% cycle '0', '1' ,'2' %}{% endcapture %}
-            
+            {% capture thecycle %}{% cycle '0', '1' ,'2' %}{% endcapture %}       
             {% if thecycle == '0' or forloop.first %}
             	<div class="row">
             {% endif %}
@@ -230,11 +228,11 @@ div.tab button.active {
 		<div style="text-align: center;">
 		<!-- <a href="#" class="button big special">View All Projects</a> -->
 		</div>
-	</div> -->
-<!--</div>-->
+	</div> 
+</div>
 
 
-<!--
+
 <script>
 function openType(evt, cityName) {
     var i, tabcontent, tablinks;
@@ -248,7 +246,7 @@ function openType(evt, cityName) {
     }
     document.getElementById(cityName).style.display = "block";
     evt.currentTarget.className += " active";
-}-->
-<!--
+}
+
 document.getElementById("defaultOpen").click();
-</script> -->			
+</script> 			
